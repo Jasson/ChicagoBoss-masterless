@@ -1,7 +1,7 @@
 Chicago Boss: Start small, dream big
 ====================================
 
-The Fork goal is what make it masterless in the cluster.
+The Fork goal is what make it masterless in the clusters.
 
 Chicago Boss is a server framework inspired by Rails and written in Erlang. It
 offers all the conveniences of modern web development, including Comet. What sets
